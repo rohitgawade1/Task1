@@ -14,3 +14,7 @@
 ## How to run project
 - To fetch the user data we have to click the 'Get Users' button which is in navbar.
 - While clicking the 'Get Users' button user data is display on screen.
+
+
+## Time taken to complete this assignment
+75 minutes
