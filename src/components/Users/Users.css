@@ -1,0 +1,13 @@
+.users{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 13rem;
+    /* padding: 1rem; */
+    box-shadow: 2px 2px 5px 2px rgba(128, 128, 128, 0.509);
+    cursor: pointer;
+    grid-gap: 0;
+    padding-bottom: 1rem;
+}
+
